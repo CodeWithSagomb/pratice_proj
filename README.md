@@ -1,5 +1,4 @@
-# pratice_proj
-
+# pratice_project
 # ANALYSE DE VENTE
 
 Dans le cadre de ce projet, nous avons analysé les données de ventes d'un magasin pour identifier les produits les plus vendus, les tendances saisonnières et les préférences des clients. Nous avons commencé par générer un jeu de données fictif contenant 100 lignes et 10 colonnes, incluant des informations telles que la date de la vente, le produit, la quantité vendue, le prix unitaire, l'identifiant du client, le magasin, la méthode de paiement, l'heure de la vente, l'application de promotions et la note du client.
